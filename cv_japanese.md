@@ -55,3 +55,8 @@
 ## 性格
 
 - 16 personalities: [主人公](https://www.16personalities.com/ja/enfj%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC)
+
+## 代表的な成果
+
+- 日立製作所: https://www.hitachi.co.jp/products/it/lumada/usecase/case/lumada_uc_00890.html
+- リクルート: https://www.ra.jalan.net/
